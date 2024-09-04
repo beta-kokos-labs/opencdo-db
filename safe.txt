@@ -1,5 +1,5 @@
-https://github.com
-https://github.io
-https://github.dev
-https://chat.openai.com
-https://openai.com
+github.com
+github.io
+github.dev
+chat.openai.com
+openai.com
